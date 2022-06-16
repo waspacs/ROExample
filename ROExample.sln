@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ROExample", "ROExample\ROExample.vbproj", "{F40D27A8-EA32-453B-ABDA-1BBAF9F11DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40D27A8-EA32-453B-ABDA-1BBAF9F11DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40D27A8-EA32-453B-ABDA-1BBAF9F11DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40D27A8-EA32-453B-ABDA-1BBAF9F11DDF}.Debug|x64.ActiveCfg = Debug|x64
+		{F40D27A8-EA32-453B-ABDA-1BBAF9F11DDF}.Debug|x64.Build.0 = Debug|x64
+		{F40D27A8-EA32-453B-ABDA-1BBAF9F11DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40D27A8-EA32-453B-ABDA-1BBAF9F11DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40D27A8-EA32-453B-ABDA-1BBAF9F11DDF}.Release|x64.ActiveCfg = Release|x64
+		{F40D27A8-EA32-453B-ABDA-1BBAF9F11DDF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12AA8CA5-44CF-4AE3-A2FE-7FA50B3B812D}
+	EndGlobalSection
+EndGlobal

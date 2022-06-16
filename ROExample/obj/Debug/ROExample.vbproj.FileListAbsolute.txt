@@ -1,0 +1,12 @@
+C:\Users\waspacs\source\repos\ROExample\ROExample\bin\Debug\ROExample.exe.config
+C:\Users\waspacs\source\repos\ROExample\ROExample\bin\Debug\ROExample.exe
+C:\Users\waspacs\source\repos\ROExample\ROExample\bin\Debug\ROExample.pdb
+C:\Users\waspacs\source\repos\ROExample\ROExample\bin\Debug\ROExample.xml
+C:\Users\waspacs\source\repos\ROExample\ROExample\obj\Debug\ROExample.vbprojAssemblyReference.cache
+C:\Users\waspacs\source\repos\ROExample\ROExample\obj\Debug\ROExample.Form1.resources
+C:\Users\waspacs\source\repos\ROExample\ROExample\obj\Debug\ROExample.Resources.resources
+C:\Users\waspacs\source\repos\ROExample\ROExample\obj\Debug\ROExample.vbproj.GenerateResource.cache
+C:\Users\waspacs\source\repos\ROExample\ROExample\obj\Debug\ROExample.vbproj.CoreCompileInputs.cache
+C:\Users\waspacs\source\repos\ROExample\ROExample\obj\Debug\ROExample.exe
+C:\Users\waspacs\source\repos\ROExample\ROExample\obj\Debug\ROExample.xml
+C:\Users\waspacs\source\repos\ROExample\ROExample\obj\Debug\ROExample.pdb
