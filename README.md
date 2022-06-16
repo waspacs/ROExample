@@ -10,6 +10,7 @@ It's an example of reading data from 64 bit games via vb.net, in some games you 
 
 
 Bypassing EAC for Rise Online
+
 First, locate \Game\EasyAntiCheat in your game folder.
 Open Settings.json with any text editor.
 Change productid and sandboxid to random text.
