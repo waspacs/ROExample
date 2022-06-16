@@ -6,7 +6,7 @@
     Public Function GetPMValue(ByVal ProcessName As String, ByVal Pointer As Long, Optional ByVal OffSets() As Long = Nothing) As Integer
         Dim ReturnLong As Long = 0
         Dim ReturnInteger As Integer = 0
-        Dim Pprocess As Process = Process.GetProcessesByName(ProcessName)(1)
+        Dim Pprocess As Process = Process.GetProcessesByName(ProcessName)(0)
         Dim Phandle As IntPtr = Pprocess.Handle
         If OffSets IsNot Nothing Then
             Dim PbaseAdress As Long = Pprocess.MainModule.BaseAddress.ToInt64 + Pointer
